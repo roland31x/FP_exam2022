@@ -319,7 +319,6 @@ namespace exam2022FP
                 righta++;
                 run++;
             }
-
         }
     }
 }
